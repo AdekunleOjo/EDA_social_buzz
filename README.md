@@ -15,7 +15,7 @@ Sql(Sql server)
 # Steps taken in the data preparation
 - Data cleaning
 - Data Joining
-- syntax queries writing
+- Data manipulation
 - Subquery.
 
   # Insights covered
