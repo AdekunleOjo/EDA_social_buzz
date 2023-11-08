@@ -6,8 +6,9 @@ I got the dataset from https://www.theforage.com/virtual-experience/hzmoNKtzvAzX
 
 # Problem statement
 Analysis to find social's buzz top five best catrgories of content.
+
 But how to capitalize on it when there is so much?
-It's not just all about harvesting as much content as possible... The real value is in understanding and crunching this content to gain a deeper understanding of your audience and to therefore provide a more personalized and enjoyable experience. And this is where out data analytics expertise comes in, with the insights that we've uncovered from this task, we can show you exactly how to take analytics to production at scale.
+It's not just all about harvesting as much content as possible.The real value is in understanding and crunching this content to gain a deeper understanding of your audience and to therefore provide a more personalized and enjoyable experience. And this is where out data analytics expertise comes in, with the insights that we've uncovered from this task, we can show you exactly how to take analytics to production at scale.
 
 # Tool Used
 Sql(Sql server)
